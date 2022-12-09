@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     
     override func loadView() {
         super.loadView()
-        view.backgroundColor = .gray
+        view.backgroundColor = .black
 
     }
     override func viewDidLoad() {
